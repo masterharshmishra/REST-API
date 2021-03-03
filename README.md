@@ -1,3 +1,3 @@
 # API
-Created a simple REST API using Node
+Created a simple REST API using node.js
 Just a simple API to start with! :)
